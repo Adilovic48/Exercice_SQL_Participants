@@ -1,1 +1,1 @@
-# Exercice_SQL_Participants
+# Captures d'écran des résultats des requetes disponibles sur le fichier 'IMAGES'
