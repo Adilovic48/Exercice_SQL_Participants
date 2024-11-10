@@ -1,5 +1,16 @@
-# Les réponses des questions se trouvent dans le fichier queries.sql
-# Chaque requete contient une capture d'écran qui affiche le résultat <br><br>
+# Fichiers du projet
+## tables.sql
+Ce fichier contient les instructions SQL pour créer les tables principales de la base de données. Ces tables définissent la structure des données, incluant les tables participants, formations, notes, emails, etc., avec leurs champs et leurs relations (clés primaires, clés étrangères).
+
+## insertions.sql
+Ce fichier regroupe les instructions SQL pour insérer des données dans les tables créées. Il initialise les tables avec des enregistrements pour chaque participant, formation, note, et email, nécessaires pour effectuer les tests et les requêtes sur des données représentatives.
+
+## queries.sql
+Ce fichier contient les requêtes SQL demandées pour le projet, permettant de répondre aux questions spécifiques sur les données, telles que le nombre de participants, les moyennes de notes, les informations sur les formations, etc. Chaque requête est commentée pour expliquer son objectif et sa structure.
+
+
+## Les réponses des questions se trouvent dans le fichier queries.sql
+## Chaque requete contient une capture d'écran qui affiche le résultat <br><br>
 
 
 
