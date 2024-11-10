@@ -2,6 +2,8 @@
 # Chaque requete contient une capture d'écran qui affiche le résultat
 
 
+
+
 ## Question 1: Combien de participants avez vous ? 
 ![Capture d’écran 2024-11-10 185325 (1)](https://github.com/user-attachments/assets/bb31c5ae-732b-4c74-a3c2-b1b53e0cf70c)
 
